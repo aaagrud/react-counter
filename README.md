@@ -12,3 +12,7 @@ The Counter Application allows users to increment and decrement a counter value.
 - **Bootstrap**: A CSS framework for responsive design and styling.
 
 ## Demo Video
+
+[Watch the video here](https://drive.google.com/file/d/1Yv-p4fRWq3K6iWQVxedyKNg-cDgF_Cyc/view?usp=sharing)
+
+![image](https://github.com/user-attachments/assets/dfd0c03b-0ff3-465f-b49a-114e8f725c94)
