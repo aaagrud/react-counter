@@ -10,10 +10,12 @@ function App(){
     function subtract(){
         editCount(count - 1);
     }
-    return <div className = "counter">
+    return <div className = "counter-container d-flex flex-column justify-content-center align-items-center vh-100">
         <h1>{count}</h1>
-        <button onClick = {subtract}>-</button>
-        <button onClick = {add}>+</button>
+        <div className = "button-container">
+            <button className = "btn m-2 btn-primary" onClick = {subtract}>-</button>
+            <button className = "btn m-2  btn-primary" onClick = {add}>+</button>
+        </div>
     </div>
 }
 
